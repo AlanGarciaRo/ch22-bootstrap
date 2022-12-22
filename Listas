@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+filas.html 
+Identifica y corrige los errores
+
+<html lang=es>
+    <head>
+        <title>Cositas que me gustan</title>
+        <meta charset=”UTF-8”>
+        <meta name="viewport" content="Ejercicio HTML - Hacer listas">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    </head>
+    
+    <body>
+        <h1>Cositas que me gustan</h1>
+        <p>Crea una lista desordenada con 6 de tus bebidas favoritas.</p>
+        <lu>
+            <li> Pepsi</li>
+            <li> Delawere</li>
+            <li> Sprite</li>
+            <li> Sidral Mundet</li>
+            <li> Squirt</li>
+            <li> Naranja & nada</li>
+
+        <p>Crea una lista ordenada con tu top 5 de canciones favoritas del momento. Cada elemento de la lista debe tener un hipervínculo que dirija a la canción en Youtube. 
+        Ejemplo:
+        Nubes - Masta Quba
+        Eléctrica - Tiago PZK ft IZA
+        Y así con todas las canciones</p>
+        <ol>
+            <li> Borracho-Genitallica
+                <link rel="Borracho" href="https://www.youtube.com/watch?v=bfz58lNCgOM ">
+            </li>
+            <li> Quién te entiende-Germán Crecer /
+                <link/ rel="Quien te entiende"  href="https://www.youtube.com/watch?v=YBx8YtgqVls"
+                </li>
+            <li> Ojos verdes-Julion Alvarez/
+                </li>
+            <li> Ojitos de Miel-T3R Elemento/
+                <link rel="Ojitos de Miel" href="https://www.youtube.com/watch?v=FnXeXLr26Ok"
+                </li>
+            <li> Me vas a echar de menos/
+                <link rel="Me vas a echar de menos" href="https://www.youtube.com/watch?v=nCTC6mNHthU"
+                </li>
+        <p>Crea una lista descriptiva, donde expliques los siguientes términos: función, let, const y tres etiquetas de html que no hayamos visto en sesión.</p>
+                <dl>función:
+                    <dt>Intrucciones que realizan una tarea</dt>
+                </dl>
+                <dl>let:
+                    <dt>Permite declarar variables, limitada al bloque</dt>
+                </dl>
+                <dl>const: 
+                    <dt>Declara variables, su alcance puede ser global o local.</dt>
+                </dl>
+                <dl>nav: 
+                    <dt>Define el contenido que sea la sección en la web</dt>
+                </dl>
+                <dl>article: 
+                    <dt>Define contenido independiente en la web</dt>
+                </dl>
+                <dl>aside: 
+                    <dt>Contenido de la web de poca importancia</dt>
+                </dl>
+        
+        <p>Crea una lista anidada</p>
+                <ul>Comida que podemos encontrar en la CDMX
+                    <li>Tacos:<ul>
+                        <li>Cabeza</li>
+                        <li>Suadero</li>
+                        <li>Pastor</li>
+                        <li>Birria</li>
+                    </ul></li>
+                    <li>Garnachas:<ul>
+                        <li>Gorditas</li>
+                        <li>Pambazos</li>
+                        <li>Quesadillas</li>
+                    </ul></li>
+                    <li>Tortas: 
+                        <li>Tamal</li>
+                        <li>De puesto</li>
+                        <li>Tacos</li>
+                        <li>Cubana</li>
+                    </li>
+                    <li>Fritos: <ul>
+                        <li>ALitas</li>
+                        <li>Platanos</li>
+                        <li>Papas a la francesa</li>
+                        <li>Papas en gajo</li>
+                        <li>Banderillas</li>
+                        <li>Cualquier cosa</li>
+                    </ul></li>
+
+                </ul>
+        </body>
+</html>
